@@ -75,7 +75,7 @@ The Power BI dashboard includes:
 
 | Category Breakdown | Segment Analysis |
 |:---:|:---:|
-| ![Categories](outputs/Category_breakdown.png) | ![Segments](outputs/segment_analysis.png) |
+| ![Categories](outputs/category_breakdown.png) | ![Segments](outputs/segment_analysis.png) |
 
 | Top Products |
 |:---:|
